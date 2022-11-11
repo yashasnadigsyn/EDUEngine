@@ -1,9 +1,5 @@
 <html>
 
-<head>
-    <title>Introduction</title>
-</head>
-
 <body bgcolor="palegoldenrod">
     <center>
         <u><h1 style="color:red;">What we are building!</h1></u>
