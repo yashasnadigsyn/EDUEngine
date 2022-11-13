@@ -19,6 +19,8 @@
     &nbsp; &nbsp; &nbsp;<a href="#impl_progress">How much have we implemented?</a><br>
     &nbsp; &nbsp; &nbsp;<a href="#face_issue">Are we facing any issues?</a><br>
     &nbsp; &nbsp; &nbsp;<a href="#test_app">How to test our app?</a><br>
+    <a href="#final_submit"><h4>Final Submission:</h4></a>
+    &nbsp; &nbsp; &nbsp;<a href="#tools_used">How to run:</a><br>
     <h1 id="ideation">Ideation stage:</h1>
     <h3 id="team_name"><u>Team Name:</u></h3>
         TheAiPeople
