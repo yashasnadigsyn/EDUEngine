@@ -82,7 +82,7 @@
         <h1 id="final_submit">Final Submission</h1>
         <h3 id="how_to">How to use:</h3>
         <code> git clone https://github.com/yashasnadigsyn/EDUEngine/ </code> <br>
-        <code>python3 main.py</code>
+        <code>python3 app.py</code>
         
 </body>
 
