@@ -80,7 +80,8 @@
         <p>to run files tab.</p>
         <h1 id="final_submit">Final Submission</h1>
         <h3 id="how_to">How to use:</h3>
-        <code> git clone https://github.com/yashasnadigsyn/EDUEngine/ <br> python3 main.py</code>
+        <code> git clone https://github.com/yashasnadigsyn/EDUEngine/ </code>
+        <code>python3 main.py</code>
         
 </body>
 
