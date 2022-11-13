@@ -76,7 +76,10 @@
         <p>For example: </p>
         <code>python3 files.py</code><br>
         <p>to run files tab.</p>
-
+        <h1 id="final_submit">Final Submission</h1>
+        <h3 id="how_to">How to use:</h3>
+        <code> git clone https://github.com/yashasnadigsyn/EDUEngine/ <br> python3 main.py</code>
+        
 </body>
 
 </html>
