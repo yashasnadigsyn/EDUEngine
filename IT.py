@@ -22,8 +22,8 @@ def runIT(query):
         except:
             desc.append("")
         try:
-            external_link = i.find("div", attrs={"class":"external-link"})
-            link.append(external_link.text)
+            external_link = i.h4.a['href']
+            link.append(external_link)
         except:
             link.append("")
     answer = []
